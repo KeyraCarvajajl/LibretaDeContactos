@@ -8,6 +8,13 @@ public class ClasePrincipal {
     public static void main(String[] args) {
         Scanner sc1 = new Scanner(System.in);
 
+        Persona personita = new Persona();
+        personita.setNombre(sc1.next());
+        personita.setApellido(sc1.next());
+        personita.setCedula(sc1.next());
+        personita.setDireccion(sc1.next());
+
+
         System.out.println("Cuantas personas quieres ingresar: ");
         int numeroDePersonas = sc1.nextInt();
         Persona[] personas = new Persona[numeroDePersonas];
