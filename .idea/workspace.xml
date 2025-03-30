@@ -178,4 +178,8 @@
     <MESSAGE value="FEAT(UPS-001): creacion de un nuevo objeto de tipo Persona en la clase principal" />
     <option name="LAST_COMMIT_MESSAGE" value="FEAT(UPS-001): creacion de un nuevo objeto de tipo Persona en la clase principal" />
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
 </project>
