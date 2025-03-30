@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88ba3048-3d83-4f84-921e-3e8a9997eac7" name="Changes" comment="Initial Commit">
+    <list default="true" id="88ba3048-3d83-4f84-921e-3e8a9997eac7" name="Changes" comment="FEAT(UPS-001): creacion de un nuevo objeto de tipo Persona en la clase principal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/persona/Familiar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/persona/Familiar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/persona/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/persona/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/principal/ClasePrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/principal/ClasePrincipal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Keyra26&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Keyra26/LibretaDeContactos.git&quot;,
+    &quot;accountId&quot;: &quot;d7638fba-a2ad-498c-aa69-043771b23cd6&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -100,7 +114,10 @@
       <workItem from="1743178514154" duration="2917000" />
       <workItem from="1743181487851" duration="50000" />
       <workItem from="1743181559581" duration="767000" />
-      <workItem from="1743182347233" duration="1012000" />
+      <workItem from="1743182347233" duration="2602000" />
+      <workItem from="1743267519025" duration="1922000" />
+      <workItem from="1743363363888" duration="898000" />
+      <workItem from="1743365200330" duration="833000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -110,14 +127,34 @@
       <option name="project" value="LOCAL" />
       <updated>1743182907372</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FEAT(UPS-001): creacion de un nuevo objeto de tipo Persona en la clase principal">
+      <option name="closed" value="true" />
+      <created>1743183389583</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743183389583</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="FEAT(UPS-001): creacion de un nuevo objeto de tipo Persona en la clase principal" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEAT(UPS-001): creacion de un nuevo objeto de tipo Persona en la clase principal" />
   </component>
 </project>

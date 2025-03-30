@@ -1,6 +1,8 @@
 package ec.edu.ups.poo.clases.principal;
 
 import ec.edu.ups.poo.clases.Persona;
+import ec.edu.ups.poo.principal.Familiar;
+
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
