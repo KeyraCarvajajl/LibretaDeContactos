@@ -1,9 +1,9 @@
-package ec.edu.ups.poo.principal;
+package ec.edu.ups.poo.clases.principal;
 
-import ec.edu.ups.poo.clases.principal.Familiar;
+import ec.edu.ups.poo.clases.persona.Familiar;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
-import ec.edu.ups.poo.clases.Persona;
+import ec.edu.ups.poo.clases.persona.Persona;
 
 public class ClasePrincipal {
     public static void main(String[] args) {

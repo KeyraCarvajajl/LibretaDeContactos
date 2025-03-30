@@ -1,4 +1,4 @@
-package ec.edu.ups.poo.clases;
+package ec.edu.ups.poo.clases.persona;
 
 public class Persona {
     private String cedula;
