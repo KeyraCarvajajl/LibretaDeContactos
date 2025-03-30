@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88ba3048-3d83-4f84-921e-3e8a9997eac7" name="Changes" comment="FEAT(UPS-001): creacion de un nuevo objeto de tipo Persona en la clase principal">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/persona/Familiar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/persona/Familiar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/persona/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/persona/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/principal/ClasePrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/ups/poo/clases/principal/ClasePrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/ups/poo/clases/persona/Familiar.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
     "Application.ClasePrincipal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/kyra/IdeaProjects/Persona/src/main/resources",
     "node.js.detected.package.eslint": "true",
@@ -65,7 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -127,7 +122,7 @@
       <workItem from="1743182347233" duration="2602000" />
       <workItem from="1743267519025" duration="1922000" />
       <workItem from="1743363363888" duration="898000" />
-      <workItem from="1743365200330" duration="6160000" />
+      <workItem from="1743365200330" duration="6955000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -153,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743366045848</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FEAT(UPS-001): creacion de un nuevo objeto de tipo Persona en la clase principal">
+      <option name="closed" value="true" />
+      <created>1743376049374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743376049374</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
