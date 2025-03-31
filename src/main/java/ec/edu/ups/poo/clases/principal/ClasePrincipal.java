@@ -4,11 +4,13 @@ import ec.edu.ups.poo.clases.persona.Familiar;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 import ec.edu.ups.poo.clases.persona.Persona;
+import org.w3c.dom.ls.LSOutput;
 
 public class ClasePrincipal {
+
     public static void main(String[] args) {
         Scanner sc1 = new Scanner(System.in);
-
+        System.out.println("Acabar la carrera");
         Persona personita = new Persona();
         personita.setNombre(sc1.next());
         personita.setApellido(sc1.next());
