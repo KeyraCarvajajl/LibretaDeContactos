@@ -15,6 +15,7 @@ public class Familiar extends Persona {
         this.tipoDeSangre = tipoDeSangre;
         this.fechaNacimiento = fechaNacimiento;
         System.out.println("Siempre mantenerse unidos.");
+        System.out.println("Probando el Branch");
     }
 
     public String getParentesco() {
@@ -47,6 +48,8 @@ public class Familiar extends Persona {
         int anioNacimiento = fechaNacimiento.get(Calendar.YEAR);
         return (anioActual - anioNacimiento);
     }
+
+
 
     @Override
     public String toString() {
